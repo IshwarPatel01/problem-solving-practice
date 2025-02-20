@@ -13,3 +13,4 @@ if n % 3 == 0 and n % 7 == 0:
     print("n is multiple with both 3 and 7")
 else:
     print("n is not multiple with both 3 and 7")
+
