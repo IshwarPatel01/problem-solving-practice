@@ -1,4 +1,3 @@
- 
 def friend(x):
     arr = []
     
