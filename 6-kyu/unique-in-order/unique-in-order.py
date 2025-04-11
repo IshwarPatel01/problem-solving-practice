@@ -1,4 +1,3 @@
- 
 def unique_in_order(sequence):
 #     if not sequence:
 #         return []
