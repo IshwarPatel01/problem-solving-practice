@@ -1,6 +1,5 @@
-def binary_array_to_number(arr):
-    result = 0
-    for bit in arr:
-        result = result * 2 + bit
-    return result
-    
+def even_or_odd(number):
+    if number % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
