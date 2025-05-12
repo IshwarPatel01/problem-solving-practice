@@ -1,7 +1,5 @@
- 
-def remove_char(s):
-    n = len(s)
-    result = ""
-    for char in range(1,n-1):
-        result += s[char]
-    return result
+def even_or_odd(number):
+    if number % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
