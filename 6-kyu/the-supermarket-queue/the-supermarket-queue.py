@@ -1,3 +1,4 @@
+ 
 def queue_time(customers, n):
     time = [0] * n
     
