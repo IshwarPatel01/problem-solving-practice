@@ -1,3 +1,4 @@
+ 
 def enough(cap, on, wait):
     # Your code here
     
