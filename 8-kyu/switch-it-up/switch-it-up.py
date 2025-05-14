@@ -1,3 +1,4 @@
+ 
 def switch_it_up(number):
     #your code here
     nums = {
@@ -12,4 +13,4 @@ def switch_it_up(number):
         9 : "Nine",
         0 : "Zero"
     }
-    return nums[numbers]
+    return nums[number]
