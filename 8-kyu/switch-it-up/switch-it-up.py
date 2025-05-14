@@ -1,3 +1,4 @@
+ 
 def switch_it_up(number):
     #your code here
     nums = {
