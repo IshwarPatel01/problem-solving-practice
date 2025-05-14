@@ -3,5 +3,5 @@ def enough(cap, on, wait):
     # Your code here
     
     total_passenger =  on + wait
-    result = cap - total_passenger
+    result = total_passenger - cap
     return abs(result)
