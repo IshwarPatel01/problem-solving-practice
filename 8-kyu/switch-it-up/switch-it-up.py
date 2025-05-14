@@ -1,9 +1,8 @@
- 
 def switch_it_up(number):
     #your code here
     nums = {
         1 : "One",
-        2 : "two",
+        2 : "Two",
         3 : "Three",
         4 : "Four" , 
         5 : "Five" , 
