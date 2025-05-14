@@ -1,4 +1,3 @@
- 
 def enough(cap, on, wait):
     # Your code here
     total_passenger = on + wait
