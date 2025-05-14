@@ -1,4 +1,3 @@
- 
 def rental_car_cost(d):
     total_amt = 0
     if d >= 7:
