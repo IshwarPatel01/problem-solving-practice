@@ -1,4 +1,3 @@
- 
 def number(lines):
     #your code here
     n = 1
