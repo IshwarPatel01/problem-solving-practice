@@ -1,3 +1,4 @@
+ 
 def square_digits(num):
     # Your code here
     result = ""
