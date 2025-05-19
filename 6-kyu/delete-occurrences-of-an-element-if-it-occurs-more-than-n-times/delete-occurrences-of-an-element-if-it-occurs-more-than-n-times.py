@@ -1,4 +1,3 @@
- 
 def delete_nth(order,n):
     count = {}
     arr = []
