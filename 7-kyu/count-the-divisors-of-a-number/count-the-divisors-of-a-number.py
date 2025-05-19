@@ -1,4 +1,3 @@
- 
 def divisors(n):
     count = 0
     
