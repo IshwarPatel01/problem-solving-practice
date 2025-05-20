@@ -1,3 +1,4 @@
+ 
 def count(s):
     if s == "":
         return {}
