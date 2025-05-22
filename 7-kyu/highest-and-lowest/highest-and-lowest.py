@@ -1,4 +1,3 @@
- 
 def high_and_low(numbers):
     str_list = numbers.split()
     int_list = [int(x) for x in str_list]
