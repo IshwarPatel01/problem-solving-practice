@@ -1,4 +1,3 @@
- 
 def final_grade(exam, projects):
     if exam > 90 or projects > 10:
         return 100
