@@ -1,4 +1,3 @@
- 
 def arithmetic(a, b, operator):
     operators = {
         "add" : a + b,
