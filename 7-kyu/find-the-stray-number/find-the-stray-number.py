@@ -1,4 +1,3 @@
- 
 def stray(arr):
     count = {}
     
