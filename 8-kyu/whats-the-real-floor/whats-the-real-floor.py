@@ -1,4 +1,3 @@
- 
 def get_real_floor(american_floor):
     """
     Converts an American floor number to a European floor number.
