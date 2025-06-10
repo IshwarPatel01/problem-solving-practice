@@ -1,4 +1,3 @@
- 
 def add_length(str_):
     arr = []
     arr2 = str_.split()
