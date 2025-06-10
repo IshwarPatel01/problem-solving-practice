@@ -1,3 +1,4 @@
+ 
 def multi_table(number):
     answer = ''
     for i in range(1, 11):  # Standard 1 to 10 table
