@@ -1,4 +1,3 @@
- 
 def solution(s):
     
     for char in range(len(s)):
