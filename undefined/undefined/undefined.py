@@ -1,6 +1,9 @@
-def simple_multiplication(number) :
-    # Your code goes here
-    if number % 2 == 0:
-        return number * 8
-    else:
-        return number * 9
+def solution(s):
+    newStr = ""
+    for letter in s:
+        if letter.isupper():
+            newStr += " "
+        newStr += letter
+    return newStr
+        
+    
