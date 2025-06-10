@@ -1,3 +1,4 @@
+ 
 def reverse_seq(n):
     arr = []
     
