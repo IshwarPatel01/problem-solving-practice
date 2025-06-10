@@ -1,4 +1,3 @@
- 
 def get_real_floor(n):
     # code here
     if n < 13:
