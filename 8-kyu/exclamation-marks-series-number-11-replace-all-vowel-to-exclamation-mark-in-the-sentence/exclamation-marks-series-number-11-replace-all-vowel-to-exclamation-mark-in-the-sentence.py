@@ -1,4 +1,3 @@
- 
 def replace_exclamation(st):
     vowel = ["a", "e", "i", "o" ,"u", "A", "E", "I", "O", "U"]
     
