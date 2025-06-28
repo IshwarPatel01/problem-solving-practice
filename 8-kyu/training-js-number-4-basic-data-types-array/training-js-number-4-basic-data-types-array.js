@@ -8,12 +8,13 @@ function getFirst(arr){
 }
 function getLast(arr){
   //return the last element of arr
-  return arr[arr.length -1]
+  return arr.at(-1)
 }
 function pushElement(arr){
   var el=1;
   //push el to arr
   arr.push(el)
+  
   return arr
 }
 function popElement(arr){
