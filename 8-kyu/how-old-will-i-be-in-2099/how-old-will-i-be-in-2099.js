@@ -1,4 +1,3 @@
- 
 function  calculateAge(b,y) {  
   if (b - y === 1) return `You will be born in 1 year.`
   if(y-b === 1) return `You are 1 year old.`
