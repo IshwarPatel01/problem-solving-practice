@@ -1,4 +1,3 @@
- 
 function include(arr, item){
   let result = false
   for (value of arr){
