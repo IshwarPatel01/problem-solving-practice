@@ -10,4 +10,6 @@ function adjacentElementsProduct(arr) {
   }
   return total
   
+  
+  
 }
